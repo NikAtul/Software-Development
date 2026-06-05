@@ -16,6 +16,7 @@ A personal portfolio website created using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Screenshots
+
 <img src="images/ss1.png" alt="">
 <img src="images/ss2.png" alt="">
 <img src="images/ss3.png" alt="">
@@ -25,4 +26,5 @@ A personal portfolio website created using HTML, CSS, and JavaScript.
 Open index.html in a browser.
 
 ## Demo Link
+
 (https://nikatul.github.io/Software-Development/)
