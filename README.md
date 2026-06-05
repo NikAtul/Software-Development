@@ -1,7 +1,7 @@
-# Personal Blog Portfolio
+# Rabiatul's Portfolio
 
 ## Description
-A personal blog website created using HTML, CSS, and JavaScript.
+A personal portfolio website created using HTML, CSS, and JavaScript.
 
 ## Features
 - Home page
@@ -16,10 +16,13 @@ A personal blog website created using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Screenshots
-(Add screenshots here)
+<img src="images/ss1.png" alt="">
+<img src="images/ss2.png" alt="">
+<img src="images/ss3.png" alt="">
+<img src="images/ss4.png" alt="">
 
 ## How to Run
 Open index.html in a browser.
 
 ## Demo Link
-(Add GitHub Pages link here)
+(https://nikatul.github.io/Software-Development/)
