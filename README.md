@@ -22,4 +22,4 @@ A personal blog website created using HTML, CSS, and JavaScript.
 Open index.html in a browser.
 
 ## Demo Link
-(Add GitHub Pages link here)
+(https://nikatul.github.io/Software-Development/)
